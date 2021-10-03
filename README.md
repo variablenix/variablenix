@@ -1,6 +1,7 @@
 # variablenix
 
 👋 Hi
+<hr>
 
 ### 🌐 www
 🌎[KIM](https://kode.im/)
@@ -16,7 +17,6 @@
 
 ### 🍄 hopalong
 <a href="https://v.aklein.me"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="113" width="200" /></a> &nbsp;
-<hr>
 
 <p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=variablenix&count_private=true&count_private=true&show_icons=true&theme=tokyonight" />
