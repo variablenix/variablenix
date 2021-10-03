@@ -16,8 +16,8 @@
 <a href="https://v.aklein.me"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="113" width="200" /></a> &nbsp;
 
 <p>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=variablenix&count_private=true&show_icons=true&theme=tokyonight" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variablenix&theme=tokyonight&layout=compact" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=variablenix&count_private=true&count_private=true&show_icons=true&theme=tokyonight" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variablenix&count_private=true&theme=tokyonight&layout=compact" />
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/variablenix)
