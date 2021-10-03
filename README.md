@@ -1,7 +1,4 @@
-# variablenix
-
 # 👋 Hi
-<hr>
 
 ### 🌐 www
 🌎[KIM](https://kode.im/)
