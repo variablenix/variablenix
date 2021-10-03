@@ -1,6 +1,6 @@
 # variablenix
 
-👋 Hi, I’m @variablenix
+👋 Hi
 
 #### 🌐 www
 🌎[KIM](https://kode.im/)
