@@ -11,6 +11,8 @@
 <a href='mailto:hello+github@aklein.me'><img src="/img/email.png" alt="email contact" title="Email" height="50" width="50" /></a> &nbsp;
 <a href="https://discord.gg/PPJ6kNB6Jf"><img src="/img/discord.png" alt="discord server" title="GG0x Discord Server" height="50" width="50" /></a>
 <a href="https://libera.chat/"><img src="/img/Libera_Chat_Logo.png" alt="ak4 on Libera Chat" title="ak4 on Libera Chat" height="50" width="50" /></a>
+
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#kim:kode.im)
 <hr>
 
 ### 🍄 hopalong
