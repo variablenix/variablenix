@@ -1,7 +1,6 @@
 # 👋 Hi
 
-### 🌐 www 🌎
-🖥️ [Main](https://www.aklein.me/)📓
+### 🌐 [www](https://www.aklein.me/) 🌎
 <hr>
 
 ### 📫 connect
