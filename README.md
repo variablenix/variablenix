@@ -1,7 +1,7 @@
 # 👋 Hi
 
 ### 🌐 www
-📓[Blog](https://b.aklein.me/)
+📓[Main](https://www.aklein.me/)
 ☁️[Projects](https://b.aklein.me/projects/)
 <hr>
 
@@ -12,7 +12,7 @@
 <hr>
 
 ### 🍄 hopalong
-<a href="https://v.aklein.me"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="169" width="300" /></a> &nbsp;
+<a href="https://v.aklein.studio"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="169" width="300" /></a> &nbsp;
 
 <p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=variablenix&count_private=true&count_private=true&show_icons=true&theme=tokyonight" />
