@@ -5,7 +5,7 @@
 
 ### 📫 connect
 <a href='mailto:hello+github@aklein.me'><img src="/img/email.png" alt="email contact" title="Email" height="50" width="50" /></a> &nbsp;
-<a href="https://discord.gg/PPJ6kNB6Jf"><img src="/img/discord.png" alt="discord server" title="GG0x Discord Server" height="50" width="50" /></a>
+<a href="https://discords.com/servers/GG0x"><img src="/img/discord.png" alt="discord server" title="GG0x Discord Server" height="50" width="50" /></a>
 
 <hr>
 
