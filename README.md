@@ -3,12 +3,6 @@
 ### 🌐 [www](https://www.aklein.me/) 🌎
 <hr>
 
-### 📫 connect
-<a href="https://discords.com/servers/GG0x"><img src="/img/discord.png" alt="GG0x Discord Server" title="GG0x Discord Server" height="50" width="50" /></a>
-<a href='mailto:hello+github@aklein.me'><img src="/img/email.png" alt="email contact" title="Email" height="50" width="50" /></a> &nbsp;
-
-<hr>
-
 ### 🍄 hopalong
 <a href="https://v.aklein.studio"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="169" width="300" /></a> &nbsp;
 
