@@ -1,6 +1,6 @@
 # 👋 Hi
 
-### 🌐 [www](https://www.aklein.me/) 🌎
+### 🌎 [www](https://lt.aklein.pro/) 🌲
 <hr>
 
 ### 🍄 hopalong
