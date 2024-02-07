@@ -15,3 +15,5 @@
 variablenix/variablenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![github-foundations-small](https://github.com/variablenix/variablenix/assets/472631/3ee2fe1b-6a43-4533-93ac-41dad07cc937)
