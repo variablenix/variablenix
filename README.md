@@ -1,8 +1,5 @@
 # 👋 Hi
 
-### 🌎 [www](https://linktree.aklein.pro/) 🌲
-<hr>
-
 ### 🍄 hopalong
 <a href="https://v.aklein.studio" target="_blank"><img src="/img/audio%20level.gif" alt="custom hopalong visualizer" title="Custom Hopalong Visualizer" height="169" width="300" /></a> &nbsp;
 
