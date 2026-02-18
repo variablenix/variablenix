@@ -1,5 +1,3 @@
-# 👋 Hi
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/472631" width="120" style="border-radius: 50%; border: 2px solid #00d2ff;" />
   <h1>Anthony Klein</h1>
@@ -10,13 +8,14 @@
     <b>Homelab Enthusiast</b>
   </p>
 
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Powered-00d2ff?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br />
+
+# 👋 Hello
 
 ### 🔭 The Mission
 I bridge the gap between "it works" and "it's secure". My passion lies in architecting robust digital environments—from enterprise-grade office networks to highly optimized, containerized self-hosted stacks. I treat my Homelab like a production data center, ensuring every service is resilient, monitored, and isolated.
