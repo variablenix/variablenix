@@ -9,8 +9,11 @@
   </p>
 
   <img src="https://img.shields.io/badge/Automation-Powered-00d2ff?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Enterprise_Standards-blue?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-Active-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-99.9%25_Uptime-success?style=for-the-badge&logo=uptimerobot&logoColor=white" />
+
 </div>
 
 <br />
