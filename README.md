@@ -62,6 +62,8 @@ My private lab serves as the R&D department for my professional work, where I ba
 ---
 
 ### 🎵 Beyond the Terminal
+<img src="https://img.shields.io/badge/Audio_Engineering-Advanced-ff69b4?style=for-the-badge&logo=ableton&logoColor=white" />
+<img src="https://img.shields.io/badge/AV_Systems-Generative-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 When I'm not configuring subnets, I’m at **The Sound Booth**, managing my music studio and architecting the intersection of **audio engineering**, **studio automation**, and **generative audio-visual systems**.
 
 <!--
