@@ -62,8 +62,17 @@ My private lab serves as the R&D department for my professional work, where I ba
 ---
 
 ### 🎵 Beyond the Terminal
-<img src="https://img.shields.io/badge/Audio_Engineering-Advanced-ff69b4?style=for-the-badge&logo=ableton&logoColor=white" />
-<img src="https://img.shields.io/badge/AV_Systems-Generative-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ableton_Live-11-00ff00?style=for-the-badge&logo=ableton&logoColor=black" />
+  <img src="https://img.shields.io/badge/Studio_One-6-0055a4?style=for-the-badge&logo=presonus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roland_TR--808-The_Boom-E64A19?style=for-the-badge&logo=roland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roland_TR--909-The_Snap-FF9800?style=for-the-badge&logo=roland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roland-Boutique_Series-000000?style=for-the-badge&logo=roland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drum_Machines-Analog_%26_Digital-red?style=for-the-badge&logo=native-instruments&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synthesizers-Sound_Design-blueviolet?style=for-the-badge&logo=moog&logoColor=white" />
+</p>
+
 When I'm not configuring subnets, I’m at **The Sound Booth**, managing my music studio and architecting the intersection of **audio engineering**, **studio automation**, and **generative audio-visual systems**.
 
 <!--
@@ -71,6 +80,7 @@ When I'm not configuring subnets, I’m at **The Sound Booth**, managing my musi
   <img src="https://github-readme-stats.vercel.app/api?username=variablenix&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 -->
+---
 
 ![github-foundations-small](https://github.com/variablenix/variablenix/assets/472631/3ee2fe1b-6a43-4533-93ac-41dad07cc937)
 ![GitHub administrator badge - small](https://github.com/variablenix/variablenix/assets/472631/762b398e-b954-47e6-9a77-9ee6478edc61)
