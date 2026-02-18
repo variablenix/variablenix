@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img/20251128_220553.jpg" width="120" style="border-radius: 50%; border: 2px solid #00d2ff;" />
-  <h1>Anthony Klein</h1>
+  
   <p>
     <b>Network Architect</b> &nbsp;•&nbsp; 
     <b>Infrastructure Engineer</b> &nbsp;•&nbsp; 
