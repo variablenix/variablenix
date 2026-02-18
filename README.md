@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/472631" width="120" style="border-radius: 50%; border: 2px solid #00d2ff;" />
+  <img src="./img/20251128_220553.jpg" width="120" style="border-radius: 50%; border: 2px solid #00d2ff;" />
   <h1>Anthony Klein</h1>
   <p>
     <b>Network Architect</b> &nbsp;•&nbsp; 
