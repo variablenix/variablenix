@@ -45,9 +45,28 @@ I bridge the gap between "it works" and "it's secure". My passion lies in archit
     <td width="33%" valign="top">
       <h4>🐳 Infrastructure</h4>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" /><br/>
-      <img src="https://img.shields.io/badge/Portainer-Expert-blue?style=flat-square&logo=portainer" /><br/>
+      <img src="https://img.shields.io/badge/Dockhand-Expert-24292e?style=flat-square&logo=docker" /><br/>
       <img src="https://img.shields.io/badge/Proxmox/ESXi-Virtualization-orange?style=flat-square" />
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚙️ DevSecOps</h4>
+      <img src="https://img.shields.io/badge/Gitea-Self--Hosted_SCM-609926?style=flat-square&logo=gitea" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-Cloud_SCM-181717?style=flat-square&logo=github" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔐 Security & Identity</h4>
+      <img src="https://img.shields.io/badge/Authentik-IAM/SSO-fd4b13?style=flat-square&logo=authentik" /><br/>
+      <img src="https://img.shields.io/badge/MFA-Enforced-green?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+  <h4>📊 Observability</h4>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/InfluxDB-00A3E0?style=flat-square&logo=influxdb&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Telegraf-E5282A?style=flat-square&logo=telegraf&logoColor=white" />
+</td>
   </tr>
 </table>
 
