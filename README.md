@@ -57,14 +57,14 @@ I bridge the gap between "it works" and "it's secure". My passion lies in archit
     </td>
     <td width="33%" valign="top">
       <h4>🔐 Security & Identity</h4>
-      <img src="https://img.shields.io/badge/Authentik-IAM/SSO-fd4b13?style=flat-square&logo=authentik" /><br/>
-      <img src="https://img.shields.io/badge/MFA-Enforced-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/Authentik-IAM/SSO-fd4b13?style=flat-square&logo=authentik" /> <img src="https://img.shields.io/badge/MFA-Enforced-green?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/OIDC_%2F_SAML-Enabled-blue?style=flat-square" /> <img src="https://img.shields.io/badge/SSL/TLS-Hardened-red?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-  <h4>📊 Observability</h4>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/InfluxDB-00A3E0?style=flat-square&logo=influxdb&logoColor=white" /> <img src="https://img.shields.io/badge/Telegraf-E5282A?style=flat-square&logo=telegraf&logoColor=white" />
-</td>
+      <h4>📊 Observability</h4>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/InfluxDB-00A3E0?style=flat-square&logo=influxdb&logoColor=white" /> <img src="https://img.shields.io/badge/Telegraf-E5282A?style=flat-square&logo=telegraf&logoColor=white" />
+    </td>
   </tr>
 </table>
 
