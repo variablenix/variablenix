@@ -21,7 +21,7 @@
 # 👋 Hello
 
 ### 🔭 The Mission
-I bridge the gap between "it works" and "it's secure". My passion lies in architecting robust digital environments—from enterprise-grade office networks to highly optimized, containerized self-hosted stacks. I treat my Homelab like a production data center, ensuring every service is resilient, monitored, and isolated.
+I enjoy briding the gap between "it works" and "it's secure". My passion lies in architecting robust digital environments—from enterprise-grade office networks to highly optimized, containerized self-hosted stacks. I treat my Homelab like a production data center, ensuring every service is resilient, monitored, and isolated.
 
 ---
 
