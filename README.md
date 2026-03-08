@@ -62,10 +62,8 @@ I bridge the gap between "it works" and "it's secure". My passion lies in archit
     </td>
     <td width="33%" valign="top">
   <h4>📊 Observability</h4>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/InfluxDB-00A3E0?style=flat-square&logo=influxdb&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Telegraf-E5282A?style=flat-square&logo=telegraf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/InfluxDB-00A3E0?style=flat-square&logo=influxdb&logoColor=white" /> <img src="https://img.shields.io/badge/Telegraf-E5282A?style=flat-square&logo=telegraf&logoColor=white" />
 </td>
   </tr>
 </table>
