@@ -78,6 +78,12 @@ My private lab serves as the R&D department for my professional work, where I ba
 
 ---
 
+### 🏗️ [Homelab Stack](https://github.com/stars/variablenix/lists/my-homelab-stack)
+
+Some of the tools, services, and projects powering KDN Lab.
+
+---
+
 ### 🎵 Beyond the Terminal
 
 <p align="left">
