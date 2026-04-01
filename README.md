@@ -84,7 +84,7 @@ Some of the tools, services, and projects powering KDN Lab.
 
 ---
 
-### 🎵 Beyond the Terminal
+### 🎵 [Beyond the Terminal](https://github.com/KDN-Cloud/b.aklein.studio)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ableton_Live-11-00ff00?style=for-the-badge&logo=ableton&logoColor=black" />
