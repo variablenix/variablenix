@@ -2,9 +2,9 @@
   <img src="./img/20251128_220553.jpg" width="120" style="border-radius: 50%; border: 2px solid #00d2ff;" />
   <h1>AK</h1>
   <p>
-    <b>Network Architect</b> &nbsp;•&nbsp; 
-    <b>Infrastructure Engineer</b> &nbsp;•&nbsp; 
-    <b>Automation Engineer</b> &nbsp;•&nbsp; 
+    <b>Network Architect</b> &nbsp;•&nbsp;
+    <b>Infrastructure Engineer</b> &nbsp;•&nbsp;
+    <b>Automation Engineer</b> &nbsp;•&nbsp;
     <b>Homelab Enthusiast</b>
   </p>
 
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Architecture-Enterprise_Standards-blue?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Infrastructure_as_Code-Active-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdSec-Protected-1E90FF?style=for-the-badge&logo=crowdsec&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-99.9%25_Uptime-success?style=for-the-badge&logo=uptimerobot&logoColor=white" />
 
 </div>
@@ -96,7 +97,7 @@ Some of the tools, services, and projects powering KDN Lab.
   <img src="https://img.shields.io/badge/Synthesizers-Sound_Design-blueviolet?style=for-the-badge&logo=moog&logoColor=white" />
 </p>
 
-When I'm not configuring subnets, I’m at **The Sound Booth**, managing my music studio and architecting the intersection of **audio engineering**, **studio automation**, and **generative audio-visual systems**.
+When I'm not configuring subnets, I'm at **The Sound Booth**, managing my music studio and architecting the intersection of **audio engineering**, **studio automation**, and **generative audio-visual systems**.
 
 <!--
 <div align="center">
