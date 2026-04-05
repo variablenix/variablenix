@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Architecture-Enterprise_Standards-blue?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Infrastructure_as_Code-Active-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdSec-Protected-1E90FF?style=for-the-badge&logo=crowdsec&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdSec-Fleet_Protected-1A1A2E?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-99.9%25_Uptime-success?style=for-the-badge&logo=uptimerobot&logoColor=white" />
 
 </div>

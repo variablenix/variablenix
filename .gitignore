@@ -1,0 +1,34 @@
+# --- Ansible Secrets & Credentials ---
+*.vault_pass
+*.j2_decrypted
+group_vars/vault.yml_unencrypted
+# If you decide to store your vault password in a local file:
+.ansible_vault_pass
+
+# --- Ansible Execution Artifacts ---
+*.retry
+*.log
+.ansible_cache/
+facts.d/
+
+# --- SSH & Keys ---
+# Never commit private keys!
+*.pem
+*.key
+id_rsa
+id_ed25519
+!*.pub
+
+# --- System & Editor ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Python (If using virtualenvs) ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+
