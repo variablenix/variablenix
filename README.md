@@ -19,7 +19,7 @@
 
 <br />
 
-### 🔭 System Overview
+### 🛠️ System Overview
 Engineering at the intersection of reliability, security, and scale. I am passionate about architecting robust systems—whether managing enterprise-grade infrastructure or optimizing containerized environments. By applying production-level observability and CI/CD standards to every project, I ensure that services are not just functional, but resilient, automated, and isolated by design.
 
 ---
