@@ -22,7 +22,7 @@
 # 👋 Hello
 
 ### 🔭 The Mission
-I enjoy briding the gap between "it works" and "it's secure". My passion lies in architecting robust digital environments—from enterprise-grade office networks to highly optimized, containerized self-hosted stacks. I treat my Homelab like a production data center, ensuring every service is resilient, monitored, and isolated.
+Engineering at the intersection of reliability, security, and scale. I am passionate about architecting robust systems—whether managing enterprise-grade infrastructure or optimizing containerized environments. By applying production-level observability and CI/CD standards to every project, I ensure that services are not just functional, but resilient, automated, and isolated by design.
 
 ---
 
