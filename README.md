@@ -7,8 +7,6 @@
     <b>Automation Engineer</b> &nbsp;•&nbsp;
     <b>Homelab Enthusiast</b>
   </p>
-  <p><a href="mailto:variablenix@kdn.cloud">variablenix@kdn.cloud</a></p>
-
   <img src="https://img.shields.io/badge/Automation-Powered-00d2ff?style=for-the-badge&logo=robot&logoColor=white" alt="Automation powered" />
   <img src="https://img.shields.io/badge/Architecture-Enterprise_Standards-blue?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Enterprise architecture standards" />
   <img src="https://img.shields.io/badge/Infrastructure_as_Code-Active-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as code active" />
