@@ -74,6 +74,31 @@ My private lab is the R&amp;D environment for my professional work—a place to 
 
 Tools, services, and projects powering KDN Lab.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/pfSense-Firewall-black?style=for-the-badge&logo=pfsense" alt="pfSense firewall" />
+  <img src="https://img.shields.io/badge/VLAN_Segmentation-Active-orange?style=for-the-badge" alt="Active VLAN segmentation" />
+  <img src="https://img.shields.io/badge/Unbound-Recursive_DNS-4A5568?style=for-the-badge" alt="Unbound recursive DNS" />
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform" alt="Terraform infrastructure as code" />
+  <img src="https://img.shields.io/badge/Ansible-Configuration_Mgmt-EE0000?style=for-the-badge&logo=ansible" alt="Ansible configuration management" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker" alt="Docker containerization" />
+  <img src="https://img.shields.io/badge/Dockhand-Container_Management-24292e?style=for-the-badge&logo=docker" alt="Dockhand container management" />
+  <img src="https://img.shields.io/badge/Proxmox%2FESXi-Virtualization-orange?style=for-the-badge" alt="Proxmox and ESXi virtualization" />
+  <img src="https://img.shields.io/badge/WireGuard-VPN-00d2ff?style=for-the-badge&logo=wireguard" alt="WireGuard VPN" />
+  <img src="https://img.shields.io/badge/CrowdSec-IDS%2FIPS%20Active-E01E5A?style=for-the-badge&logo=shield&logoColor=white" alt="CrowdSec IDS and IPS" />
+  <img src="https://img.shields.io/badge/Authentik-IAM%2FSSO-fd4b13?style=for-the-badge&logo=authentik" alt="Authentik IAM and SSO" />
+  <img src="https://img.shields.io/badge/MFA-Enforced-green?style=for-the-badge" alt="MFA enforced" />
+  <img src="https://img.shields.io/badge/OIDC%20%2F%20SAML-Enabled-blue?style=for-the-badge" alt="OIDC and SAML enabled" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-Hardened-red?style=for-the-badge" alt="SSL and TLS hardened" />
+  <img src="https://img.shields.io/badge/Gitea-Self--Hosted_SCM-609926?style=for-the-badge&logo=gitea" alt="Self-hosted Gitea" />
+  <img src="https://img.shields.io/badge/GitHub-Cloud_SCM-181717?style=for-the-badge&logo=github" alt="GitHub cloud source control" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automated-00d2ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automated CI and CD" />
+  <img src="https://img.shields.io/badge/TLS_Certificates-Automated_Rotation-0A84FF?style=for-the-badge" alt="Automated TLS certificate rotation" />
+  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana observability" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus monitoring" />
+  <img src="https://img.shields.io/badge/InfluxDB-Time_Series-00A3E0?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB time series database" />
+  <img src="https://img.shields.io/badge/Telegraf-Metrics-E5282A?style=for-the-badge&logo=telegraf&logoColor=white" alt="Telegraf metrics" />
+</p>
+
 ## 🎵 [Beyond the Terminal](https://github.com/KDN-Cloud/b.aklein.studio)
 
 <p align="left">
